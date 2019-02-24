@@ -4,6 +4,7 @@ This repo contains ipynb notebook displaying Hierarchical Clustering using three
 * Ward
 * Single
 * Complete
+
 Output contains Dendrograms
 
 ## Technologies Used
